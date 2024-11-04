@@ -1,6 +1,6 @@
 # Contact Form Page
 
-This repository contains a simple contact form page built with HTML, CSS, and JavaScript. The form allows users to submit their contact information and messages, which can be processed on the server-side.
+This repository contains a simple contact form page built with HTML and CSS. The form allows users to submit their contact information and messages, which can be processed on the server-side.
 
 ## Features
 
@@ -12,6 +12,5 @@ This repository contains a simple contact form page built with HTML, CSS, and Ja
 ## Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
+- CSS
 - Formspree
